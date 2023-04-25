@@ -1,3 +1,4 @@
 FROM docker.io/bitnami/apache:latest
 COPY ./public_html/ /app
+id;podman images
 
